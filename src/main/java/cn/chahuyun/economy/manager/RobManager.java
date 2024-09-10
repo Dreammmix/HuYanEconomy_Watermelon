@@ -442,7 +442,7 @@ public class RobManager {
     }
 
     /**
-     * 是否在医药
+     * 是否在医院
      *
      * @param user 用户
      * @return true 在
