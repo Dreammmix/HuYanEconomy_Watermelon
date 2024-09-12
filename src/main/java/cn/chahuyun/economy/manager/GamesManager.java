@@ -341,6 +341,7 @@ public class GamesManager {
             }
             //roll鱼
             fish = collect.get(RandomUtil.randomInt(0, Math.min(6, size)));
+            //打印roll到的鱼的难度
             break;
         }
         //roll尺寸
