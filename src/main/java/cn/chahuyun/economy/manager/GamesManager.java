@@ -261,6 +261,7 @@ public class GamesManager {
                 case "放线":
                 case "放":
                 case "~":
+                case "~":
                     if (pull > 2) {
                         difficultyMin += 15;
                         rankMax = 1;
